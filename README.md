@@ -7,3 +7,5 @@ Use 2023 Data,two sampled range:
 2.week 1-41 for training, week 42-48 for testing  
 ![messageImage_1710968882595](https://github.com/MikazukiHikari/Predict_Tainan_dengue_fever/assets/100305577/1ddca76e-47b8-4f81-85eb-7a9d217956fb)  
 ## XGBoost
+Use XGBoost for get importance feature  
+![messageImage_1710969291458](https://github.com/MikazukiHikari/Predict_Tainan_dengue_fever/assets/100305577/ea974802-019d-4eaa-bf9d-025d66d46c45)
